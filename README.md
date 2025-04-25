@@ -2,8 +2,9 @@
 
 This repo contains the data files you need to use for the course and the exercises where you use them.  The access to the slides is granted during the class.
 
-##### Agenda Breakout
+
 **Fabric Architecture**
+
 •	Architecture Overview
 
 •	Lakehouse physical structure and One Lake 
@@ -11,6 +12,7 @@ This repo contains the data files you need to use for the course and the exercis
 •	Parquet and Delta Lake
 
 **Developing with Medallion Architecture**
+
 •	Process Description
 
 •	Workspace Organization
@@ -19,6 +21,7 @@ This repo contains the data files you need to use for the course and the exercis
 
 
 **Data Engineering with Fabric**
+
 •	Mirroring
 
 •	Shortcuts
